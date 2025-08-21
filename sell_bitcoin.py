@@ -1,0 +1,7 @@
+class Bitcoin:
+    ...
+    
+class StockExchange:
+    ...
+
+
