@@ -3,4 +3,6 @@
 ## Sehenswürdigkeiten:
 - Eiffelturm
 - Louvre
-- etc.
+- Centre d Pompidou
+- Montmartre
+- Versailles
