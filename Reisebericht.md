@@ -8,3 +8,4 @@
 
 ## Abendessen Aktivitäten
 - whatever, hauptsache keine Frösche und Schnecken
+- hühnchen bitte nur
